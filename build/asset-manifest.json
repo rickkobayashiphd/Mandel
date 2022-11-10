@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mandel/static/css/main.64c1df79.css",
+    "main.js": "/mandel/static/js/main.267fafca.js",
+    "static/js/787.28cb0dcd.chunk.js": "/mandel/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/mandel/index.html",
+    "main.64c1df79.css.map": "/mandel/static/css/main.64c1df79.css.map",
+    "main.267fafca.js.map": "/mandel/static/js/main.267fafca.js.map",
+    "787.28cb0dcd.chunk.js.map": "/mandel/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64c1df79.css",
+    "static/js/main.267fafca.js"
+  ]
+}
